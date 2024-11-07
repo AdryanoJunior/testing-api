@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "npm run cy:run"
+    "test": "npx cypress run"
   },
   "keywords": [],
   "author": "",
